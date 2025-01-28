@@ -1,3 +1,5 @@
+# Predicting Stock Prices using Linear Regression
+
 Overview:
 This project demonstrates how a linear regression model can be used to predict the stock prices of Infosys and HDFC. The aim is to analyze historical stock data, preprocess it, and train a machine learning model to make accurate predictions.
 
